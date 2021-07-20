@@ -1,0 +1,126 @@
+March 4th, 2020
+
+This program seems to be set up to use the actual data in the textboxes as the arguments for its internal functions, rather than say the Properties.Settings.Default parameters.
+I guess I remember doing this on some program, but I cannot decide yet if the entire program is consistent, or if I like this. it gives us no buffer. So right now I am working with
+the Sierr API stuff, and I guess I thought we would have the usual paradigm of settings, with OK, Save, Cancel and all the rest. So since my settings are distributed across the
+form I don't  have that natural break point with a true independent settings page when they close the form, and must choose cancel or save. In my version the user just
+jumps around changing shit. So lets say we rewrite the program to always save the .Text to Props. and then use Props. internally as parameters to all our functions.
+
+Well then we would have the room to create individual exceptions.
+
+
+February 18th, 2020
+
+So its time to modernize this program, add Sierra API capabilities, and present it at the IUG. That also means versioining it, creating a license statement, and then posting the project on github
+
+- Lose the updates mechanism, its not needed
+- nice if I could maybe make the colortab control closer to fullsize so that each tab could have better control over the layout. Like we really don't need a print button for every tab
+- maybe create a listing of all out controls and how we would like them to group
+- can tabs share controls? of course they can, but I'm not sure how to do this in the designer
+- API we need the items API code files, then we need the textboxes and labels and Properties to hold the key and secret and the url
+
+
+
+February 18th, 2020
+
+So its time to modernize this program, add Sierra API capabilities, and present it at the IUG. That also means versioining it, creating a license statement, and then posting the project on github
+
+- Lose the updates mechanism, its not needed
+- nice if I could maybe make the colortab control closer to fullsize so that each tab could have better control over the layout. Like we really don't need a print button for every tab
+- maybe create a listing of all out controls and how we would like them to group
+- can tabs share controls? of course they can, but I'm not sure how to do this in the designer
+- API we need the items API code files, then we need the textboxes and labels and Properties to hold the key and secret and the url
+
+
+
+February 28th, 2020
+
+So I added the API in a very simplified form. It seems to work. I lot of streamlining, although I ran into a world of trouble trying to rename the main namespace, so I gave up on that.
+at the very least now I have to add a settings area for the api url, key and secret.
+
+so our tab control is only the top half of the screen, and the stuff below is always present.
+
+always present:
+
+- dataGridView
+- groupBoxPrint
+
+tabs
+
+- spine and pocket and all the buttons
+- print alignment
+- dataFormat, spinelabel stacking options, pocket label options
+- raw data textbox
+- log textbox
+- create lists help screen
+- printer driver help screen
+- a labels path to automatically open a data file
+
+
+Okay well it seems like its easy enough to define a user control and then use it on multiple tabs, if that is helpful.
+
+Lets lump all the help things together, including perhaps some help on the Sierra APIs
+it would be nice to see the raw data, the data parsing options, and the dgv all on one page. Maybe we can leave the pocket labels somewhere else, like the printer alignment
+the log can just get bigger
+is there a better way to handle the automatic opening? its usually called a command line arguemnt and a shortcut. okay got rid of that crap
+
+new layout
+
+tab page print will actually look very similar to what we see now:
+ - spine and pocket and associated buttons in a new panel or groupbox
+ - print labels box and groupdatabox below.
+ - these controls will be in a tabpage set to fill bottom the form
+
+print alignment
+ - alignment panel as it exists currently
+ - spine and pocket label options (from the 3rd tab)
+
+File Import
+ - Data Format box
+ - Raw Text File
+ - Data Grid
+
+Log
+ - textbox Log
+
+Help Tab
+ - Create Lists
+ - Zebra Setup
+
+Sierra API Tab
+ - Key, Secret, Url, url generator
+ - Help stuff
+ - test button.
+
+
+
+
+
+
+
+Tab One -- Printing
+- spine and pocket and associated buttons in a panel
+- data grid view
+- print/search panel
+
+Tab Two -- Alignment
+- alignment and factory reset buttons
+- spine and pocket fill options panels
+- Zebra Help
+
+Tab Three -- File Import Settings
+- import settings
+- raw data textbox
+- datagridview
+- Create Lists Help
+
+Tab Four
+- Sierra API key, secret, url generator, test button
+- Help API
+
+Tab Five
+- event log
+
+
+
+okay well the only thing that I see appearing twice is the dataGrid view
