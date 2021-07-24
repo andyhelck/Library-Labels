@@ -1,0 +1,67 @@
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library Labels.csprojAssemblyReference.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library_Labels_Namespace.FormSearchAPI.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library_Labels_Namespace.Library_Labels_Class.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library_Labels_Namespace.Properties.Resources.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library Labels.csproj.GenerateResource.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library Labels.csproj.CoreCompileInputs.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library Labels.csproj.CopyComplete
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library Labels.exe
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 44\Library Labels\obj\x86\Release\Library Labels.pdb
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library_Labels_Namespace.FormSearchAPI.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library_Labels_Namespace.Library_Labels_Class.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library_Labels_Namespace.Properties.Resources.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library Labels.csproj.GenerateResource.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library Labels.csproj.CoreCompileInputs.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library Labels.exe
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library Labels.pdb
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels fixed 45\Library Labels\obj\x86\Release\Library Labels.csproj.CopyComplete
+\\WPL-SERVER\xtras\aAndySoftWare\Library Labels\Library Labels.exe.config
+\\WPL-SERVER\xtras\aAndySoftWare\Library Labels\Library Labels.exe
+\\WPL-SERVER\xtras\aAndySoftWare\Library Labels\Library Labels.pdb
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.FormSearchAPI.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.Library_Labels_Class.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.Properties.Resources.resources
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.GenerateResource.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.CoreCompileInputs.cache
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.CopyComplete
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.exe
+\\WPL-4068\Users\ahelck\Desktop\Andy's Projects\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.pdb
+C:\Users\ahelck\Desktop\Library Labels.exe.config
+C:\Users\ahelck\Desktop\Library Labels.exe.manifest
+C:\Users\ahelck\Desktop\Library Labels.application
+C:\Users\ahelck\Desktop\Library Labels.exe
+C:\Users\ahelck\Desktop\Library Labels.pdb
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.FormSearchAPI.resources
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.Library_Labels_Class.resources
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.Properties.Resources.resources
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.GenerateResource.cache
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.CoreCompileInputs.cache
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.TrustInfo.xml
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.exe.manifest
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.application
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.CopyComplete
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.exe
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.pdb
+C:\Users\ahelck\Desktop\code\Library Labels.exe.config
+C:\Users\ahelck\Desktop\code\Library Labels.exe.manifest
+C:\Users\ahelck\Desktop\code\Library Labels.application
+C:\Users\ahelck\Desktop\code\Library Labels.exe
+C:\Users\ahelck\Desktop\code\Library Labels.pdb
+\\WPL-SERVER\Staff Data\ahelck\Public\C# Programming\Library Labels\library labels\Library Labels\obj\x86\Release\Library Labels.csprojAssemblyReference.cache
+D:\code\Library Labels.exe.config
+D:\code\Library Labels.exe.manifest
+D:\code\Library Labels.application
+D:\code\Library Labels.exe
+D:\code\Library Labels.pdb
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.csprojAssemblyReference.cache
+D:\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.FormSearchAPI.resources
+D:\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.Library_Labels_Class.resources
+D:\library labels\Library Labels\obj\x86\Release\Library_Labels_Namespace.Properties.Resources.resources
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.GenerateResource.cache
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.CoreCompileInputs.cache
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.TrustInfo.xml
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.exe.manifest
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.application
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.csproj.CopyComplete
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.exe
+D:\library labels\Library Labels\obj\x86\Release\Library Labels.pdb

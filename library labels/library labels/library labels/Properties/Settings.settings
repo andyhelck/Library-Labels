@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Library_Labels_Namespace.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SpecifyDelimitersAndQualifier" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SpecifyFirstColumnName" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DataDelimiter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,</Value>
+    </Setting>
+    <Setting Name="DataQualifier" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"</Value>
+    </Setting>
+    <Setting Name="DataRepeatFieldDelimiter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="DataFirstColumnName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CALL #(ITEM)</Value>
+    </Setting>
+    <Setting Name="DataDefaultRFD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="RemoveSubFieldIndicators" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StackSpaces" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StackDots" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UnStackAmpersands" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FilterFirstRepeatOnly" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FilterIncludeAllRepeats" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SpineAlignmentPanelLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">13, 10</Value>
+    </Setting>
+    <Setting Name="PocketAlignmentPanelLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">228, 10</Value>
+    </Setting>
+    <Setting Name="SpineFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial, 18pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="PocketFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial, 12pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="PrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zebra TLP2844</Value>
+    </Setting>
+    <Setting Name="SpineAutoMargin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SpineMargin" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="PocketAutoMargin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PocketMargin" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="SpineTextAlignment" Type="System.Windows.Forms.HorizontalAlignment" Scope="User">
+      <Value Profile="(Default)">Left</Value>
+    </Setting>
+    <Setting Name="PocketTextAlignment" Type="System.Windows.Forms.HorizontalAlignment" Scope="User">
+      <Value Profile="(Default)">Left</Value>
+    </Setting>
+    <Setting Name="orientSpineLandscape" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="orientPocketLandscape" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="showFontStyles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SierraCleanFields" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ExpandEscapeChars" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FillPocketFromDGV" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WordWrapSpineBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WordWrapPocketBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SierraAPI_Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://sierra.marmot.org/iii/sierra-api/v5/</Value>
+    </Setting>
+    <Setting Name="SierraAPI_Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RPcJh0bvhuFkPPYhJOUuTIPkmTK2</Value>
+    </Setting>
+    <Setting Name="SierraAPI_Secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Halloween2019$$</Value>
+    </Setting>
+    <Setting Name="BarcodeQuery" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{
+  "target": {"record": { "type": "item"}, "field": {"tag": "b"}},
+  "expr": {"op": "equals","operands": ["&lt;barcode&gt;"]}
+}</Value>
+    </Setting>
+    <Setting Name="BarcodeRegexPattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^\d{13}$</Value>
+    </Setting>
+    <Setting Name="QuickFont1" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial, 18pt</Value>
+    </Setting>
+    <Setting Name="QuickFont2" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Narrow, 18pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="QuickFont3" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial, 18pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="QuickFont4" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Arial Black, 18pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="QuickFontName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Regular</Value>
+    </Setting>
+    <Setting Name="QuickFontName2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Narrow</Value>
+    </Setting>
+    <Setting Name="QuickFontName3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bold</Value>
+    </Setting>
+    <Setting Name="QuickFontName4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
